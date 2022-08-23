@@ -1,0 +1,5 @@
+transformers
+pytorch-lightning
+torchmetrics
+boto3
+wandb
