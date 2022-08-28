@@ -1,4 +1,4 @@
-# <div align="center"> MLDC using LWAN and Dual-attention module </div>
+# <div align="center"> Bio-Medical Multi-label Scientific Literature Classification using LWAN and Dual-attention module </div>
 This repository contains the code for PACLIC 2022 paper: Bio-Medical Multi-label Scientific Literature Classification using LWAN and Dual-attention module.
 
 # Preprocessing Databases
